@@ -1,0 +1,15 @@
+header#main-header {
+    background: #ffffff;
+    height: 72px;
+    border-bottom: 1px solid #dddddd;
+}
+header#main-header .header-content {
+    width: 100%;
+    margin: 0 auto;
+    height: 72px;
+    padding: 0 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
